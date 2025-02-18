@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahkanishk01
 - 👀 I’m interested in Software and Web development
 - 🌱 I’m currently learning Computer science
-- 💞️ I’m looking to collaborate on various projects related to web development and software dev
+- 💞️ I’m looking to collaborate on various projects related to web and software development
 - 📫 How to reach me ... Reach to me through my linked in : https://www.linkedin.com/in/kanishk-sah-a8212924a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
