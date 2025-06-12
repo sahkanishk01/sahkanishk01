@@ -7,14 +7,14 @@
 - 🌐 Building digital solutions to real-world problems is what drives me!
 
 ## 🚀 Tech Stack & Skills
-- Languages: `C` | `C++` | `Python` | `JavaScript` | 'SQL'
+- Languages: `C` | `C++` | `Python` | `JavaScript`
 - Web: `HTML` | `CSS` | `React`
 - Tools: `Git` | `GitHub` | `VS Code` | `Postman`
 - Open Source | UI/UX basics
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/kanishk-sah-a8212924a)
-- 📧 Drop me an email or connect via LinkedIn — let’s build something awesome together!
+- 📧 Drop me an email on sahkanishk.99@gmail.com or connect via LinkedIn — let’s build something awesome together!
 
 ## ✨ Fun Facts
 - ⚡ I love debugging—it feels like solving mini puzzles every day!
