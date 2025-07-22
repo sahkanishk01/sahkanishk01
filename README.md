@@ -7,9 +7,9 @@
 - 🌐 Building digital solutions to real-world problems is what drives me!
 
 ## 🚀 Tech Stack & Skills
-- Languages: `C` | `C++` | `Python` | `JavaScript`
+- Languages: `C` | `C++` | `Python` | `JavaScript` | `SQL`
 - Web: `HTML` | `CSS` | `React`
-- Tools: `Git` | `GitHub` | `VS Code` | `Postman` | `Wordpress'
+- Tools: `Git` | `GitHub` | `VS Code` | `PostgreSQL` | `Wordpress` | `Postman`
 - Open Source | UI/UX basics
 
 ## 📫 Connect with Me
