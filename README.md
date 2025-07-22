@@ -9,7 +9,7 @@
 ## 🚀 Tech Stack & Skills
 - Languages: `C` | `C++` | `Python` | `JavaScript`
 - Web: `HTML` | `CSS` | `React`
-- Tools: `Git` | `GitHub` | `VS Code` | `Postman`
+- Tools: `Git` | `GitHub` | `VS Code` | `Postman` | `Wordpress'
 - Open Source | UI/UX basics
 
 ## 📫 Connect with Me
